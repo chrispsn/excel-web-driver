@@ -1,0 +1,1 @@
+Automate web browser actions with an easy Excel interface.
